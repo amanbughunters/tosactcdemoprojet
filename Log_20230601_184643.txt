@@ -1,0 +1,63 @@
+[3] 18:46:43: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Tosca demo project\Tosca demo project.tws'
+[3] 18:46:43: Log level: 4
+[3] 18:46:43: Release: 16.0.0.3027
+[3] 18:46:44: Execution Approval is disabled.
+[3] 18:46:44: No service discovery configured.
+[3] 18:46:44:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 18:46:44: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 18:46:44: Searcher found 0 results in 187.4547 ms
+[3] 18:46:44:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 18:46:44:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 18:46:44:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 18:46:44:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 18:46:44:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 18:46:44:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 18:46:44: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Tosca demo project\Tosca demo project.tws'
+[4] 18:46:52:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 18:46:52:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 18:46:52:  ShowStatusInfo: 'Ready'
+[4] 18:46:52:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 18:46:52:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 18:46:52:  ShowStatusInfo: 'Ready'
+[4] 18:46:52:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:46:52:  ShowStatusInfo: 'Refresh all finished'
+[4] 18:46:53:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:46:53:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 18:46:53:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 18:46:53:  ShowStatusInfo: 'Ready'
+[4] 18:46:53:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 18:46:53:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 18:46:53:  ShowStatusInfo: 'Ready'
+[4] 18:46:53:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:46:53:  ShowStatusInfo: 'Refresh all finished'
+[4] 18:46:53:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 18:46:53:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 18:46:53:  ShowStatusInfo: 'Ready'
+[4] 18:46:53:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 18:46:53:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 18:46:53:  ShowStatusInfo: 'Ready'
+[4] 18:46:53:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:46:53:  ShowStatusInfo: 'Refresh all finished'
+[3] 18:46:53: OpenWorkspace took 00:00:12.4658336 to finish
+[2] 18:46:53: Common repository is not available
+[4] 18:46:58:  ShowStatusInfo: 'Ready'
+[4] 18:46:59:  ShowStatusInfo: '1 object selected'
+[4] 18:47:00:  ShowStatusInfo: 'Ready'
+[4] 18:47:00:  ShowStatusInfo: '1 object selected'
+[4] 18:47:01:  ShowStatusInfo: 'Ready'
+[3] 18:47:53: Closing Workspace!
+[3] 18:47:53: Log closed!

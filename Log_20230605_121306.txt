@@ -1,0 +1,71 @@
+[3] 12:13:06: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Tosca demo project\Tosca demo project.tws'
+[3] 12:13:06: Log level: 4
+[3] 12:13:06: Release: 16.0.0.3027
+[3] 12:13:07: Execution Approval is disabled.
+[3] 12:13:07: No service discovery configured.
+[3] 12:13:07:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 12:13:07: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:13:07: Searcher found 0 results in 156.2131 ms
+[3] 12:13:07:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 12:13:07:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 12:13:07:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 12:13:07:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 12:13:07:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 12:13:07:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 12:13:07: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Tosca demo project\Tosca demo project.tws'
+[4] 12:13:15:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:13:15:  ShowStatusInfo: 'Ready'
+[4] 12:13:15:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:13:15:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:13:15:  ShowStatusInfo: 'Ready'
+[4] 12:13:15:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:13:15:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:13:15:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:13:16:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:13:16:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:13:16:  ShowStatusInfo: 'Ready'
+[4] 12:13:16:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:13:16:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:13:16:  ShowStatusInfo: 'Ready'
+[4] 12:13:16:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:13:16:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:13:16:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:13:16:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:13:16:  ShowStatusInfo: 'Ready'
+[4] 12:13:16:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:13:16:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:13:16:  ShowStatusInfo: 'Ready'
+[4] 12:13:16:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:13:16:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:13:16:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:13:16: OpenWorkspace took 00:00:12.2930889 to finish
+[2] 12:13:16: Common repository is not available
+[4] 12:13:21:  ShowStatusInfo: 'Ready'
+[4] 12:13:36:  ShowStatusInfo: '1 object selected'
+[4] 12:13:41:  ShowStatusInfo: 'Ready'
+[4] 12:13:44:  ShowStatusInfo: '1 object selected'
+[4] 12:13:44:  ShowStatusInfo: 'Ready'
+[4] 12:14:01:  ShowStatusInfo: '1 object selected'
+[4] 12:14:01:  ShowStatusInfo: 'Ready'
+[4] 12:14:02:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:14:02:  ShowStatusInfo: 'Ready'
+[4] 12:14:02:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:14:02:  ShowStatusInfo: 'Ready'
+[4] 12:14:02:  ShowStatusInfo: 'Refresh view finished'
+[4] 12:14:07:  ShowStatusInfo: 'Ready'
+[3] 12:15:44: Closing Workspace!
+[3] 12:15:44: Log closed!
